@@ -1,6 +1,6 @@
 <h1 align="center">PROJETO TO DO LIST</h1>
 
-<img src="https://github.com/user-attachments/assets/283bd49d-08d5-4e95-99f8-e12e3b0fb573" alt="logo star wars">
+<img src="https://github.com/user-attachments/assets/283bd49d-08d5-4e95-99f8-e12e3b0fb573" alt="to-do-list">
 
 
 <h2>Badges:</h2>
