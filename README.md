@@ -1,6 +1,6 @@
 <h1 align="center">PROJETO TO DO LIST</h1>
 
-<img src="https://github.com/user-attachments/assets/283bd49d-08d5-4e95-99f8-e12e3b0fb573" alt="to-do-list">
+<img src="https://github.com/user-attachments/assets/b5c0e043-1bef-4c64-b3dd-1042f468f79e" alt="to-do-list">
 
 
 <h2>Badges:</h2>
@@ -14,7 +14,10 @@ Ultima versão: Agosto 2024
 :star: Projeto Concluído! :star:
 </h4>
 <h2>:hammer:Funcionalidades e Demonstração da Aplicação</h2>
+<img src="https://github.com/user-attachments/assets/54836c90-af08-4152-8a26-417c9ef87a00" alt="to-do-list-funcionalidades">
+
 <h2>Acesso ao projeto</h2>
+npm run dev
 <h2> Tecnologias Utilizadas</h2>
 
 <h3>React + Vite</h3>
