@@ -1,6 +1,7 @@
 import React from 'react';
 
-export const Todo = (todo, removeTodo, completeTodo) => {
+export const Todo = ({todo, removeTodo, completeTodo}) => {
+  
   return (
     <div className='todo' style={{textDecoration: todo.isCompleted ? "line-through" : ""}}>
     <div className='content'>
