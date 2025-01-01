@@ -54,7 +54,11 @@ function App() {
     setTodos(newTodos);
   }
   return (<div className="app">
-    <h1>Lista de Tarefas</h1>
+    <img
+          src="./images/lista.png"
+          alt="Icon"
+          style={{ width: '50px', height: '50px', marginRight: '10px' }}
+        /><h1>Lista de Tarefas</h1>
     <Search search={search} setSearch={setSearch}/>
     <div className="todo-list">
     {todos.filter((todo) => todo.text.toLowerCase().includes(search.toLowerCase())).map((todo) => (
