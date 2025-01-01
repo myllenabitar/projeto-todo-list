@@ -36,7 +36,7 @@ input {
 }
 
 button {
-  background-color: #3a86ff; /* Azul primário */
+  background-color: #3a86ff; 
   color: #ffffff;
   padding: 8px 12px;
   margin-right: 10px;
@@ -48,7 +48,7 @@ button {
 }
 
 button:hover {
-  background-color: #2f6bd1; /* Azul mais escuro */
+  background-color: #2f6bd1; 
 }
 
 .todo-list {
@@ -69,12 +69,12 @@ button:hover {
 }
 
 .complete {
-  background-color: #06d6a0; /* Verde pastel */
+  background-color: #06d6a0; 
   color: #ffffff;
 }
 
 .remove {
-  background-color: #ff595e; /* Vermelho coral */
+  background-color: #ff595e; 
   color: #ffffff;
 }
 
@@ -96,11 +96,11 @@ select {
 input:focus,
 select:focus {
   outline: none;
-  border-color: #3a86ff; /* Azul primário */
+  border-color: #3a86ff; 
   box-shadow: 0 0 5px rgba(58, 134, 255, 0.5);
 }
 
-/* Media Query para telas menores */
+
 @media (max-width: 768px) {
   body {
     padding: 20px;
