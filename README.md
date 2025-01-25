@@ -1,8 +1,7 @@
 # ✅ Gerenciador de Tarefas/To-Do List
 
-<img src="https://github.com/user-attachments/assets/b5c0e043-1bef-4c64-b3dd-1042f468f79e" alt="To-Do List" align="center" width="600"/>
+<img src="https://github.com/user-attachments/assets/315e72f1-baa1-49a0-83a2-d488e84e52da" alt="To-Do List" align="center" width="600"/>
 
----
 
 ## 📝 Sobre o Projeto
 Uma aplicação simples e eficiente para gerenciar tarefas diárias. Este projeto permite que os usuários criem, editem, excluam e marquem tarefas como concluídas, tudo em uma interface moderna e intuitiva. Desenvolvido com **React**, combina funcionalidade e design para ajudar no aumento da produtividade.
@@ -30,7 +29,3 @@ Uma aplicação simples e eficiente para gerenciar tarefas diárias. Este projet
 
 ---
 
-## 📂 Como Rodar o Projeto
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/to-do-list.git
